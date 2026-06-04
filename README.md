@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a frontend student focused on creating clean, responsive and well-structured websites with SCSS.
+I’m a frontend student focused on creating clean, responsive, accessible and well-structured websites with SCSS.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tjomspop@gmail.com)
@@ -16,3 +16,5 @@ I’m a frontend student focused on creating clean, responsive and well-structur
 ![](https://streak-stats.demolab.com/?user=tjomPop&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tjomPop&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# 📈 Contribution Graph:
+![](https://github-readme-activity-graph.vercel.app/graph?username=tjomPop&theme=github-dark&hide_border=false)
