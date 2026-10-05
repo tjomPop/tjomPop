@@ -22,6 +22,8 @@ Currently developing my skills in JavaScript and React, working with JSX, compon
 ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tjomPop&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
