@@ -26,10 +26,6 @@ Currently developing my skills in JavaScript and React, working with JSX, compon
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tjomPop&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://streak-stats.demolab.com/?user=tjomPop&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tjomPop&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-# 📈 Contribution Graph:
-![](https://github-readme-activity-graph.vercel.app/graph?username=tjomPop&theme=github-dark&hide_border=false)
